@@ -1,6 +1,6 @@
 ### Douglas Andrei de Lima
 
-I'm Douglas de Lima, I'm a Developer at Knewin and I've been working in tech since 2018, and I'm in the last year of my graduation in information systems at Unisul - SC. I'm from Brazil, and I'm currently living in Santa Catarina.
+I'm Douglas de Lima, I'm a Developer at Knewin and I've been working in tech since 2012 and a developer since 2018, and I'm in the last year of my graduation in information systems at Unisul - SC. I'm from Brazil, and I'm currently living in Santa Catarina.
 
 [![Linkedin: Douglas de Lima](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglasandreilima/)](https://www.linkedin.com/in/douglasandreilima/)
 
